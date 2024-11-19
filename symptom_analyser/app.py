@@ -14,6 +14,7 @@ from nltk.stem import WordNetLemmatizer
 class Symptom_Analyser:
     def __init__(self):
         nltk.download('stopwords')
+        nltk.download('wordnet')
         nltk.download('punkt_tab')
         # Initialize lemmatizer and stop words
         self.lemmatizer = WordNetLemmatizer()
