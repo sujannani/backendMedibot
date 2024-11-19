@@ -13,6 +13,8 @@ from nltk.stem import WordNetLemmatizer
 
 class Symptom_Analyser:
     def __init__(self):
+        # Ensure the stopwords resource is available
+        self.ensure_nltk_resources()
 
         # Initialize lemmatizer and stop words
         self.lemmatizer = WordNetLemmatizer()
@@ -53,6 +55,16 @@ class Symptom_Analyser:
 
         with open(os.path.join(base_dir, 'vectorizer.pkl'), 'wb') as vectorizer_file:
             pickle.dump(self.vectorizer, vectorizer_file)
+
+    def ensure_nltk_resources(self):
+        """
+        Ensure that the required NLTK resources are available.
+        """
+        try:
+            # Download stopwords resource if it's not already available
+            nltk.data.find('corpora/stopwords')
+        except LookupError:
+            nltk.download('stopwords')
 
     def clean_text(self, text):
         """
