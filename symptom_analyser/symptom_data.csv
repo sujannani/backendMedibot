@@ -1,0 +1,418 @@
+Symptom,Disease
+Fever Cough Fatigue Sore Throat Body Aches, Flu
+Runny Nose Sore Throat Fatigue Cough, Flu
+Headache Body Aches Cough Sore Throat, Flu
+Chills Body Aches Sore Throat Fever, Flu
+Fatigue Sore Throat Runny Nose Cough, Flu
+Cough Headache Fatigue Sore Throat, Flu
+Fever Chills Cough Sore Throat Body Aches, Flu
+Body Aches Runny Nose Cough Fatigue, Flu
+Fatigue Cough Headache Fever Sore Throat, Flu
+Cough Sore Throat Runny Nose Fatigue, Flu
+Sore Throat Cough Fatigue Body Aches Fever, Flu
+Headache Runny Nose Fatigue Sore Throat, Flu
+Chills Fever Body Aches Sore Throat, Flu
+Fatigue Cough Body Aches Fever Runny Nose, Flu
+Sore Throat Runny Nose Cough Headache, Flu
+Cough Fever Body Aches Fatigue Sore Throat, Flu
+Runny Nose Fatigue Cough Body Aches, Flu
+Sore Throat Cough Fever Fatigue Body Aches, Flu
+Headache Sore Throat Cough Fatigue, Flu
+Chills Fatigue Sore Throat Cough Fever, Flu
+Runny Nose Sneezing Sore Throat Cough, Common Cold
+Sore Throat Runny Nose Fatigue Sneezing, Common Cold
+Cough Runny Nose Sore Throat Congestion, Common Cold
+Sneezing Fatigue Runny Nose Sore Throat, Common Cold
+Cough Sore Throat Congestion Fatigue, Common Cold
+Headache Runny Nose Sneezing Sore Throat, Common Cold
+Sore Throat Fatigue Runny Nose Cough, Common Cold
+Sneezing Cough Fatigue Sore Throat, Common Cold
+Runny Nose Cough Sneezing Headache, Common Cold
+Cough Runny Nose Congestion Fatigue, Common Cold
+Sore Throat Runny Nose Fatigue Sneezing, Common Cold
+Headache Cough Sneezing Runny Nose, Common Cold
+Congestion Sore Throat Sneezing Cough, Common Cold
+Runny Nose Sneezing Fatigue Sore Throat, Common Cold
+Cough Sore Throat Headache Congestion, Common Cold
+Fatigue Sneezing Runny Nose Cough, Common Cold
+Headache Runny Nose Sore Throat Congestion, Common Cold
+Cough Fatigue Sore Throat Sneezing, Common Cold
+Sore Throat Cough Runny Nose Fatigue, Common Cold
+Runny Nose Sore Throat Congestion Fatigue, Common Cold
+Shortness of Breath Chest Pain Cough Fever, Pneumonia
+Chest Pain Shortness of Breath Cough Fatigue, Pneumonia
+Cough Fever Shortness of Breath Chest Pain, Pneumonia
+Chest Pain Shortness of Breath Fatigue Cough, Pneumonia
+Fever Cough Chest Pain Shortness of Breath, Pneumonia
+Shortness of Breath Fever Chest Pain Fatigue, Pneumonia
+Cough Shortness of Breath Chest Pain Fatigue, Pneumonia
+Fatigue Chest Pain Shortness of Breath Fever, Pneumonia
+Chest Pain Cough Shortness of Breath Fever, Pneumonia
+Cough Fatigue Shortness of Breath Fever, Pneumonia
+Shortness of Breath Cough Fatigue Chest Pain, Pneumonia
+Fever Cough Shortness of Breath Fatigue, Pneumonia
+Chest Pain Fever Cough Shortness of Breath, Pneumonia
+Fatigue Cough Fever Shortness of Breath, Pneumonia
+Shortness of Breath Chest Pain Cough Fever, Pneumonia
+Chest Pain Fatigue Shortness of Breath Fever, Pneumonia
+Cough Shortness of Breath Fever Chest Pain, Pneumonia
+Fever Chest Pain Cough Shortness of Breath, Pneumonia
+Fatigue Shortness of Breath Cough Fever, Pneumonia
+Difficulty Breathing Wheezing Chest Pain Persistent Cough,Asthma
+Breathlessness Wheezing Tightness in Chest Chronic Cough,Asthma
+Shortness of Breath Whistling Sound in Chest Tight Chest Dry Cough,Asthma
+Labored Breathing Coughing Tight Chest Wheezing,Asthma
+Trouble Breathing Chest Pressure Frequent Cough Wheezing,Asthma
+Difficulty Breathing Tight Chest Continuous Cough Whistling Sound,Asthma
+Wheezing Difficulty Breathing Heavy Chest Chronic Cough,Asthma
+Breath Shortness Chest Discomfort Persistent Dry Cough Wheezing,Asthma
+Chest Heaviness Breathing Issues Wheezing Lingering Cough,Asthma
+Tight Chest Breathing Difficulty Coughing and Wheezing,Asthma
+Breathing Issues Chest Pain Dry Cough with Wheezing,Asthma
+Breathlessness Chest Pressure Constant Wheezing and Coughing,Asthma
+Difficulty Breathing Tight Chest Whistling Breathing Dry Cough,Asthma
+Chest Pain Difficulty Breathing Cough with Wheezing,Asthma
+Persistent Cough Breathlessness Tight Chest Whistling Sound,Asthma
+Trouble Breathing Continuous Cough Wheezing Tightness,Asthma
+Heavy Chest Breathing Problems Whistling Cough Sound,Asthma
+Labored Breathing Tight Chest Long-Term Cough Wheezing,Asthma
+Chest Discomfort Wheezing Dry Persistent Cough,Asthma
+Severe Headache Nausea Vomiting, Migraine
+Headache Sensitivity to Light Nausea Vomiting, Migraine
+Nausea Severe Headache Sensitivity to Light Vomiting, Migraine
+Headache Nausea Sensitivity to Sound Vomiting, Migraine
+Sensitivity to Light Nausea Severe Headache Vomiting, Migraine
+Severe Headache Sensitivity to Sound Nausea Vomiting, Migraine
+Headache Vomiting Sensitivity to Light Nausea, Migraine
+Nausea Headache Sensitivity to Sound Vomiting, Migraine
+Sensitivity to Light Severe Headache Nausea Vomiting, Migraine
+Headache Nausea Sensitivity to Light Vomiting, Migraine
+Severe Headache Sensitivity to Sound Nausea Vomiting, Migraine
+Nausea Vomiting Headache Sensitivity to Light, Migraine
+Headache Nausea Sensitivity to Sound Severe Vomiting, Migraine
+Severe Headache Nausea Vomiting Sensitivity to Light, Migraine
+Headache Sensitivity to Light Nausea Vomiting, Migraine
+Nausea Headache Sensitivity to Sound Vomiting, Migraine
+Sensitivity to Light Vomiting Nausea Severe Headache, Migraine
+Headache Sensitivity to Sound Nausea Vomiting, Migraine
+Severe Headache Nausea Sensitivity to Light Vomiting, Migraine
+Nausea Vomiting Diarrhea Abdominal Pain, Food Poisoning
+Fever Stomach Cramps Nausea Vomiting, Food Poisoning
+Diarrhea Fatigue Abdominal Pain Nausea, Food Poisoning
+Vomiting Dehydration Stomach Cramps Diarrhea, Food Poisoning
+Headache Nausea Vomiting Abdominal Bloating, Food Poisoning
+Fever Nausea Diarrhea Cramps, Food Poisoning
+Vomiting Abdominal Pain Weakness Nausea, Food Poisoning
+Stomach Cramps Diarrhea Vomiting Fever, Food Poisoning
+Nausea Diarrhea Vomiting Loss of Appetite, Food Poisoning
+Fatigue Nausea Abdominal Pain Cramps, Food Poisoning
+Stomach Bloating Diarrhea Fever Nausea, Food Poisoning
+Vomiting Dehydration Fatigue Diarrhea, Food Poisoning
+Diarrhea Nausea Fever Abdominal Cramps, Food Poisoning
+Stomach Cramps Vomiting Nausea Loss of Appetite, Food Poisoning
+Nausea Diarrhea Dehydration Stomach Bloating, Food Poisoning
+Cramps Nausea Diarrhea Vomiting, Food Poisoning
+Headache Stomach Pain Vomiting Diarrhea, Food Poisoning
+Diarrhea Nausea Weakness Abdominal Pain, Food Poisoning
+Fever Abdominal Bloating Vomiting Dehydration, Food Poisoning
+Stomach Pain Nausea Vomiting Diarrhea, Food Poisoning
+Itchy Red Spots Fever Fatigue, Chickenpox
+Fever Rash Itching Blisters, Chickenpox
+Rash Itching Fever Blisters, Chickenpox
+Blisters Itchy Skin Fatigue Fever, Chickenpox
+Fatigue Fever Itchy Rash Blisters, Chickenpox
+Itchy Rash Blisters Fever Fatigue, Chickenpox
+Blisters Fever Fatigue Itchy Skin, Chickenpox
+Rash Fatigue Blisters Itching, Chickenpox
+Fever Itchy Skin Rash Blisters, Chickenpox
+Fatigue Rash Blisters Fever Itching, Chickenpox
+Rash Blisters Itchy Skin Fever, Chickenpox
+Fever Blisters Itchy Rash Fatigue, Chickenpox
+Itchy Skin Fever Blisters Fatigue, Chickenpox
+Fatigue Blisters Fever Rash Itching, Chickenpox
+Fever Rash Itchy Blisters Skin, Chickenpox
+Blisters Itching Fever Fatigue Rash, Chickenpox
+Itchy Rash Blisters Fever Fatigue, Chickenpox
+Fever Itchy Skin Rash Blisters Fatigue, Chickenpox
+Rash Blisters Fatigue Itchy Skin Fever, Chickenpox
+Fatigue Itchy Rash Fever Blisters, Chickenpox
+Itchy Red Spots Fever Fatigue, Chickenpox
+Fever Rash Itching Blisters, Chickenpox
+Rash Itching Fever Blisters, Chickenpox
+Blisters Itchy Skin Fatigue Fever, Chickenpox
+Fatigue Fever Itchy Rash Blisters, Chickenpox
+Itchy Rash Blisters Fever Fatigue, Chickenpox
+Blisters Fever Fatigue Itchy Skin, Chickenpox
+Rash Fatigue Blisters Itching, Chickenpox
+Fever Itchy Skin Rash Blisters, Chickenpox
+Fatigue Rash Blisters Fever Itching, Chickenpox
+Rash Blisters Itchy Skin Fever, Chickenpox
+Fever Blisters Itchy Rash Fatigue, Chickenpox
+Itchy Skin Fever Blisters Fatigue, Chickenpox
+Fatigue Blisters Fever Rash Itching, Chickenpox
+Fever Rash Itchy Blisters Skin, Chickenpox
+Blisters Itching Fever Fatigue Rash, Chickenpox
+Itchy Rash Blisters Fever Fatigue, Chickenpox
+Fever Itchy Skin Rash Blisters Fatigue, Chickenpox
+Rash Blisters Fatigue Itchy Skin Fever, Chickenpox
+Fatigue Itchy Rash Fever Blisters, Chickenpox
+Joint Pain Swelling Stiffness Redness, Arthritis
+Swollen Joints Pain Difficulty Moving Fatigue, Arthritis
+Painful Joints Stiffness Swelling Warmth, Arthritis
+Joint Stiffness Redness Swelling Pain, Arthritis
+Fatigue Pain Swelling Stiffness, Arthritis
+Swollen Joints Pain Stiffness Redness, Arthritis
+Stiffness Joint Pain Swelling Difficulty Moving, Arthritis
+Painful Joints Fatigue Redness Swelling, Arthritis
+Swelling Pain Difficulty Moving Joint Stiffness, Arthritis
+Pain Swelling Redness Stiffness, Arthritis
+Stiffness Swollen Joints Fatigue Pain, Arthritis
+Painful Joints Swelling Stiffness Warmth, Arthritis
+Fatigue Joint Pain Redness Difficulty Moving, Arthritis
+Swollen Joints Warmth Pain Stiffness, Arthritis
+Pain Stiffness Swelling Redness Fatigue, Arthritis
+Difficulty Moving Swelling Pain Stiffness, Arthritis
+Fatigue Pain Swollen Joints Stiffness, Arthritis
+Swelling Joint Pain Redness Stiffness, Arthritis
+Warmth Joint Stiffness Pain Swelling, Arthritis
+Fatigue Stiffness Joint Pain Swelling, Arthritis
+Abdominal Pain Nausea Vomiting Fever, Appendicitis
+Severe Abdominal Pain Nausea Vomiting Loss of Appetite, Appendicitis
+Fever Abdominal Pain Nausea Vomiting, Appendicitis
+Pain in Lower Right Abdomen Nausea Vomiting Fever, Appendicitis
+Abdominal Swelling Fever Loss of Appetite Nausea, Appendicitis
+Sharp Abdominal Pain Nausea Vomiting Fever, Appendicitis
+Loss of Appetite Abdominal Pain Fever Nausea, Appendicitis
+Nausea Abdominal Pain Fever Vomiting, Appendicitis
+Pain in Lower Right Abdomen Fever Nausea Vomiting, Appendicitis
+Fever Nausea Pain Loss of Appetite, Appendicitis
+Painful Urination Fever Nausea Abdominal Pain, Appendicitis
+Abdominal Tenderness Nausea Vomiting Fever, Appendicitis
+Abdominal Cramps Nausea Vomiting Pain, Appendicitis
+Fever Abdominal Pain Vomiting Nausea, Appendicitis
+Sudden Abdominal Pain Fever Vomiting Nausea, Appendicitis
+Pain Near Belly Button Nausea Vomiting Abdominal Tenderness, Appendicitis
+Intense Abdominal Pain Nausea Vomiting Loss of Appetite, Appendicitis
+Nausea Vomiting Abdominal Swelling Fever, Appendicitis
+Pain in Lower Abdomen Nausea Fever Vomiting, Appendicitis
+Severe Abdominal Pain Fever Loss of Appetite Nausea, Appendicitis
+Painful Urination Frequent Urination Cloudy Urine, UTI
+Burning Sensation While Urinating Frequent Urination Nausea, UTI
+Frequent Urination Lower Abdominal Pain Blood in Urine, UTI
+Cloudy Urine Painful Urination Fever Nausea, UTI
+Painful Urination Lower Back Pain Strong Urge to Urinate, UTI
+Frequent Urination Burning Sensation Nausea, UTI
+Pain in Lower Abdomen Fever Blood in Urine, UTI
+Urgency to Urinate Painful Urination Cloudy Urine, UTI
+Burning Sensation Blood in Urine Lower Back Pain, UTI
+Fever Frequent Urination Painful Urination, UTI
+Painful Urination Blood in Urine Nausea, UTI
+Cloudy Urine Painful Urination Back Pain, UTI
+Lower Abdomen Pain Frequent Urination Burning Sensation, UTI
+Burning Urination Fever Cloudy Urine, UTI
+Frequent Urination Lower Back Pain Blood in Urine, UTI
+Painful Urination Nausea Frequent Urination, UTI
+Fever Lower Abdomen Pain Strong Urge to Urinate, UTI
+Burning Sensation Urgency to Urinate Pain in Lower Back, UTI
+Cloudy Urine Burning Sensation Painful Urination, UTI
+Fever Painful Urination Back Pain Cloudy Urine, UTI
+Red Rash Itching Dry Skin Cracking, Eczema
+Blistering Skin Redness Itchy Skin Inflammation, Eczema
+Severe Itching Dryness Red Rash Swelling, Eczema
+Flaky Skin Skin Irritation Redness Burning Sensation, Eczema
+Painful Red Rash Dry Skin Itchy Areas, Eczema
+Inflamed Skin Itching Dryness Scaling, Eczema
+Rash Blisters Dry Skin Itching Burning, Eczema
+Cracked Skin Redness Itching Swelling, Eczema
+Thickened Skin Red Rash Burning Itching, Eczema
+Dry Flaky Skin Itching Redness Inflammation, Eczema
+Eczema Rash Itchy Dry Skin Redness, Eczema
+Dry Scaly Skin Inflammation Pain Redness, Eczema
+Red Itchy Rash Skin Peeling Swelling, Eczema
+Swollen Skin Redness Itchy Areas Flaky Skin, Eczema
+Painful Rash Burning Red Skin Cracking, Eczema
+Swelling Itching Red Skin Pain, Eczema
+Dryness Cracking Blisters Itchy Skin, Eczema
+Flaky Red Skin Itching Burning Sensation, Eczema
+Redness Dry Skin Inflammation Itchy Scalp, Eczema
+Severe Itching Dryness Pain Red Rash, Eczema
+Sneezing Runny Nose Itchy Eyes Fatigue, Allergies
+Itchy Throat Watery Eyes Sneezing Coughing, Allergies
+Runny Nose Sneezing Itchy Eyes Congestion, Allergies
+Fatigue Sneezing Watery Eyes Itchy Throat, Allergies
+Coughing Itchy Eyes Runny Nose Sneezing, Allergies
+Watery Eyes Runny Nose Sneezing Congestion, Allergies
+Itchy Throat Sneezing Runny Nose Watery Eyes, Allergies
+Sneezing Itchy Eyes Congestion Fatigue, Allergies
+Coughing Runny Nose Sneezing Watery Eyes, Allergies
+Fatigue Sneezing Itchy Throat Runny Nose, Allergies
+Itchy Skin Watery Eyes Runny Nose Sneezing, Allergies
+Runny Nose Fatigue Coughing Watery Eyes, Allergies
+Itchy Throat Sneezing Fatigue Watery Eyes, Allergies
+Congestion Itchy Eyes Runny Nose Sneezing, Allergies
+Sneezing Watery Eyes Itchy Throat Congestion, Allergies
+Fatigue Runny Nose Itchy Eyes Sneezing, Allergies
+Coughing Sneezing Runny Nose Itchy Throat, Allergies
+Itchy Skin Sneezing Watery Eyes Fatigue, Allergies
+Runny Nose Coughing Sneezing Watery Eyes, Allergies
+Itchy Throat Watery Eyes Sneezing Congestion, Allergies
+Increased Thirst Frequent Urination Fatigue Blurred Vision, Diabetes
+Frequent Urination Fatigue Unexplained Weight Loss Increased Hunger, Diabetes
+Blurred Vision Increased Thirst Fatigue Slow Healing Wounds, Diabetes
+Numbness in Hands or Feet Increased Hunger Frequent Urination Fatigue, Diabetes
+Fatigue Blurred Vision Increased Thirst Slow Healing Wounds, Diabetes
+Increased Thirst Frequent Urination Numbness Blurred Vision, Diabetes
+Frequent Urination Weight Loss Increased Hunger Fatigue, Diabetes
+Unexplained Weight Loss Blurred Vision Increased Thirst Fatigue, Diabetes
+Blurred Vision Frequent Urination Increased Hunger Dry Mouth, Diabetes
+Slow Healing Wounds Increased Thirst Frequent Urination Fatigue, Diabetes
+Increased Hunger Frequent Urination Blurred Vision Fatigue, Diabetes
+Weight Loss Increased Thirst Fatigue Blurred Vision, Diabetes
+Numbness in Hands or Feet Fatigue Increased Hunger Blurred Vision, Diabetes
+Frequent Urination Fatigue Increased Thirst Blurred Vision, Diabetes
+Blurred Vision Slow Healing Wounds Fatigue Increased Thirst, Diabetes
+Dry Mouth Frequent Urination Blurred Vision Increased Thirst, Diabetes
+Frequent Urination Numbness Fatigue Blurred Vision, Diabetes
+Increased Hunger Weight Loss Fatigue Blurred Vision, Diabetes
+Blurred Vision Increased Thirst Numbness Weight Loss, Diabetes
+Fatigue Frequent Urination Blurred Vision Increased Hunger, Diabetes
+Headache Dizziness Shortness of Breath Fatigue, Hypertension
+Fatigue Headache Dizziness Blurry Vision, Hypertension
+Chest Pain Shortness of Breath Dizziness Headache, Hypertension
+Dizziness Chest Pain Fatigue Blurry Vision, Hypertension
+Fatigue Shortness of Breath Headache Dizziness, Hypertension
+Headache Blurry Vision Shortness of Breath Fatigue, Hypertension
+Chest Pain Dizziness Fatigue Headache, Hypertension
+Shortness of Breath Blurry Vision Fatigue Headache, Hypertension
+Dizziness Fatigue Shortness of Breath Chest Pain, Hypertension
+Fatigue Blurry Vision Headache Shortness of Breath, Hypertension
+Chest Pain Headache Blurry Vision Fatigue, Hypertension
+Dizziness Shortness of Breath Headache Blurry Vision, Hypertension
+Headache Fatigue Chest Pain Shortness of Breath, Hypertension
+Blurry Vision Dizziness Headache Fatigue, Hypertension
+Shortness of Breath Fatigue Headache Chest Pain, Hypertension
+Fatigue Chest Pain Blurry Vision Dizziness, Hypertension
+Headache Blurry Vision Dizziness Chest Pain, Hypertension
+Dizziness Chest Pain Blurry Vision Fatigue, Hypertension
+Fatigue Shortness of Breath Dizziness Blurry Vision, Hypertension
+Shortness of Breath Headache Dizziness Fatigue, Hypertension
+Coughing Blood in Sputum Night Sweats Fever, Tuberculosis
+Fever Weight Loss Coughing Blood in Sputum, Tuberculosis
+Night Sweats Coughing Fatigue Unexplained Weight Loss, Tuberculosis
+Coughing Fatigue Fever Night Sweats, Tuberculosis
+Weight Loss Coughing Night Sweats Blood in Sputum, Tuberculosis
+Fatigue Coughing Night Sweats Fever, Tuberculosis
+Coughing Fever Blood in Sputum Weight Loss, Tuberculosis
+Fatigue Night Sweats Coughing Fever, Tuberculosis
+Blood in Sputum Weight Loss Coughing Fatigue, Tuberculosis
+Night Sweats Fever Weight Loss Cough, Tuberculosis
+Fever Blood in Sputum Fatigue Coughing, Tuberculosis
+Coughing Night Sweats Weight Loss Fatigue, Tuberculosis
+Weight Loss Night Sweats Coughing Fever, Tuberculosis
+Coughing Fever Blood in Sputum Fatigue, Tuberculosis
+Night Sweats Coughing Fever Blood in Sputum, Tuberculosis
+Fatigue Coughing Fever Weight Loss, Tuberculosis
+Coughing Blood in Sputum Weight Loss Fever, Tuberculosis
+Fatigue Blood in Sputum Coughing Night Sweats, Tuberculosis
+Night Sweats Fatigue Coughing Blood in Sputum, Tuberculosis
+Fever Night Sweats Weight Loss Coughing, Tuberculosis
+Chest Pain Shortness of Breath Fatigue Dizziness, Heart Disease
+Fatigue Shortness of Breath Chest Pain Nausea, Heart Disease
+Shortness of Breath Chest Pain Dizziness Sweating, Heart Disease
+Nausea Chest Pain Fatigue Dizziness, Heart Disease
+Chest Pain Fatigue Shortness of Breath Sweating, Heart Disease
+Dizziness Chest Pain Shortness of Breath Nausea, Heart Disease
+Shortness of Breath Chest Pain Nausea Fatigue, Heart Disease
+Chest Pain Nausea Dizziness Sweating Fatigue, Heart Disease
+Fatigue Chest Pain Shortness of Breath Nausea, Heart Disease
+Sweating Chest Pain Fatigue Shortness of Breath, Heart Disease
+Dizziness Fatigue Chest Pain Nausea, Heart Disease
+Chest Pain Shortness of Breath Sweating Fatigue, Heart Disease
+Nausea Fatigue Dizziness Chest Pain, Heart Disease
+Shortness of Breath Nausea Fatigue Sweating, Heart Disease
+Fatigue Dizziness Shortness of Breath Chest Pain, Heart Disease
+Sweating Shortness of Breath Fatigue Chest Pain, Heart Disease
+Chest Pain Nausea Sweating Dizziness Fatigue, Heart Disease
+Dizziness Nausea Fatigue Shortness of Breath, Heart Disease
+Sweating Fatigue Shortness of Breath Chest Pain, Heart Disease
+Fatigue Chest Pain Nausea Shortness of Breath, Heart Disease
+Diarrhea Nausea Vomiting Stomach Cramps, Gastroenteritis
+Nausea Vomiting Diarrhea Fever, Gastroenteritis
+Stomach Cramps Diarrhea Nausea Vomiting, Gastroenteritis
+Fever Diarrhea Nausea Stomach Cramps, Gastroenteritis
+Vomiting Diarrhea Stomach Cramps Nausea, Gastroenteritis
+Nausea Vomiting Stomach Cramps Fever, Gastroenteritis
+Diarrhea Vomiting Stomach Cramps Fatigue, Gastroenteritis
+Stomach Cramps Diarrhea Vomiting Fatigue, Gastroenteritis
+Nausea Diarrhea Vomiting Stomach Pain, Gastroenteritis
+Vomiting Diarrhea Stomach Pain Nausea, Gastroenteritis
+Fever Nausea Stomach Pain Diarrhea, Gastroenteritis
+Fatigue Vomiting Diarrhea Stomach Cramps, Gastroenteritis
+Stomach Pain Diarrhea Nausea Vomiting, Gastroenteritis
+Diarrhea Fatigue Stomach Pain Vomiting, Gastroenteritis
+Nausea Diarrhea Vomiting Fatigue, Gastroenteritis
+Stomach Pain Nausea Diarrhea Vomiting, Gastroenteritis
+Fatigue Stomach Pain Diarrhea Vomiting, Gastroenteritis
+Fever Stomach Cramps Vomiting Diarrhea, Gastroenteritis
+Nausea Stomach Cramps Vomiting Fatigue, Gastroenteritis
+Diarrhea Stomach Pain Nausea Vomiting, Gastroenteritis
+Unexplained Weight Loss Fatigue Pain Swelling, Cancer
+Fatigue Pain Swelling Unexplained Weight Loss, Cancer
+Swelling Pain Fatigue Unexplained Weight Loss, Cancer
+Unexplained Weight Loss Pain Fatigue Swelling, Cancer
+Fatigue Unexplained Weight Loss Pain Swelling, Cancer
+Pain Unexplained Weight Loss Swelling Fatigue, Cancer
+Swelling Pain Unexplained Weight Loss Fatigue, Cancer
+Fatigue Pain Swelling Nausea, Cancer
+Unexplained Weight Loss Pain Nausea Swelling, Cancer
+Pain Fatigue Unexplained Weight Loss Nausea, Cancer
+Nausea Fatigue Pain Unexplained Weight Loss, Cancer
+Swelling Pain Nausea Fatigue, Cancer
+Unexplained Weight Loss Pain Nausea Fatigue, Cancer
+Fatigue Nausea Pain Swelling, Cancer
+Swelling Unexplained Weight Loss Fatigue Pain, Cancer
+Nausea Unexplained Weight Loss Swelling Pain, Cancer
+Fatigue Pain Nausea Swelling, Cancer
+Pain Nausea Swelling Unexplained Weight Loss, Cancer
+Unexplained Weight Loss Fatigue Pain Nausea, Cancer
+Swelling Pain Nausea Unexplained Weight Loss, Cancer
+Memory Loss Confusion Difficulty Speaking Mood Swings, Alzheimer's Disease
+Mood Swings Memory Loss Confusion Difficulty Completing Tasks, Alzheimer's Disease
+Difficulty Speaking Memory Loss Mood Swings Confusion, Alzheimer's Disease
+Confusion Difficulty Speaking Memory Loss Mood Swings, Alzheimer's Disease
+Difficulty Completing Tasks Mood Swings Memory Loss Confusion, Alzheimer's Disease
+Memory Loss Mood Swings Confusion Difficulty Speaking, Alzheimer's Disease
+Confusion Difficulty Speaking Mood Swings Difficulty Completing Tasks, Alzheimer's Disease
+Memory Loss Difficulty Speaking Mood Swings Confusion, Alzheimer's Disease
+Mood Swings Memory Loss Confusion Difficulty Following Directions, Alzheimer's Disease
+Difficulty Speaking Mood Swings Memory Loss Confusion, Alzheimer's Disease
+Confusion Difficulty Completing Tasks Memory Loss Mood Swings, Alzheimer's Disease
+Difficulty Speaking Memory Loss Mood Swings Difficulty Following Directions, Alzheimer's Disease
+Memory Loss Confusion Difficulty Speaking Difficulty Completing Tasks, Alzheimer's Disease
+Mood Swings Memory Loss Difficulty Following Directions Confusion, Alzheimer's Disease
+Difficulty Completing Tasks Mood Swings Confusion Memory Loss, Alzheimer's Disease
+Memory Loss Mood Swings Difficulty Following Directions Confusion, Alzheimer's Disease
+Mood Swings Difficulty Speaking Memory Loss Confusion, Alzheimer's Disease
+Difficulty Speaking Memory Loss Difficulty Following Directions Confusion, Alzheimer's Disease
+Confusion Memory Loss Mood Swings Difficulty Following Directions, Alzheimer's Disease
+Memory Loss Mood Swings Difficulty Speaking Difficulty Completing Tasks, Alzheimer's Disease
+Tremors Stiffness Slowness of Movement Balance Problems, Parkinson's Disease
+Slowness of Movement Tremors Stiffness Muscle Rigidity, Parkinson's Disease
+Stiffness Tremors Balance Problems Slowness of Movement, Parkinson's Disease
+Tremors Balance Problems Slowness of Movement Muscle Rigidity, Parkinson's Disease
+Slowness of Movement Stiffness Tremors Balance Problems, Parkinson's Disease
+Balance Problems Tremors Slowness of Movement Muscle Rigidity, Parkinson's Disease
+Tremors Slowness of Movement Balance Problems Difficulty Walking, Parkinson's Disease
+Stiffness Balance Problems Tremors Slowness of Movement, Parkinson's Disease
+Muscle Rigidity Tremors Stiffness Slowness of Movement, Parkinson's Disease
+Slowness of Movement Tremors Balance Problems Difficulty Sleeping, Parkinson's Disease
+Balance Problems Tremors Slowness of Movement Fatigue, Parkinson's Disease
+Tremors Muscle Rigidity Slowness of Movement Balance Problems, Parkinson's Disease
+Slowness of Movement Stiffness Balance Problems Muscle Rigidity, Parkinson's Disease
+Fatigue Tremors Slowness of Movement Balance Problems, Parkinson's Disease
+Stiffness Tremors Slowness of Movement Difficulty Speaking, Parkinson's Disease
+Tremors Muscle Rigidity Balance Problems Slowness of Movement, Parkinson's Disease
+Balance Problems Slowness of Movement Tremors Muscle Rigidity, Parkinson's Disease
+Tremors Stiffness Balance Problems Fatigue, Parkinson's Disease
+Slowness of Movement Stiffness Tremors Difficulty Speaking, Parkinson's Disease
+Difficulty Walking Muscle Rigidity Balance Problems Tremors, Parkinson's Disease
