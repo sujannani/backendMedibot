@@ -2,12 +2,14 @@ from flask import Flask # type: ignore
 from flask_pymongo import PyMongo # type: ignore
 from config import Config
 from flask_cors import CORS 
+from flask_bcrypt import Bcrypt
 import os
 app = Flask(__name__)
 app.config.from_object(Config)
 CORS(app)
 
 mongo = PyMongo(app)
+bcrypt = Bcrypt()
 
 @app.route("/")
 def index():

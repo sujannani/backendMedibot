@@ -1,5 +1,4 @@
-
-from app import mongo
+from app import mongo,bcrypt
 from bson import ObjectId
 class doctor_model:
     def doctor_signup_model(self,doctor_data):
@@ -7,21 +6,32 @@ class doctor_model:
             existing_doctor = mongo.db.doctors.find_one({'email': doctor_data['email']})
             if existing_doctor:
                 return {'message': 'Email already exists'}
-            doctor=mongo.db.doctors.insert_one(doctor_data)
-            return {'id':str(doctor.inserted_id),'message':'ok'}
+            hashed_password = bcrypt.generate_password_hash(doctor_data['password']).decode('utf-8')
+            doctor_data['password'] = hashed_password
+            doctor = mongo.db.doctors.insert_one(doctor_data)
+            return {'id': str(doctor.inserted_id), 'message': 'ok'}
         except Exception as e:
             return {'message':f"something went wrong{e}"}
     
     def doctor_login_model(self,doctor_data):
         try:
-            doctor = mongo.db.users.find_one({'email': doctor_data['email'],'password':doctor_data['password']})
+            doctor = mongo.db.doctors.find_one({'email': doctor_data['email']})
             if doctor:
-                return {"message":"ok","user":{
-                    'id':str(doctor['_id']),
-                    'name':doctor['name'],
-                    'email':doctor['email'],
-                }}
-            return {"message":"not ok","user":{}}
+                if bcrypt.check_password_hash(doctor['password'], doctor_data['password']):
+                    return {
+                        "message": "ok",
+                        "doctor": {
+                            'id': str(doctor['_id']),
+                            'name': doctor['name'],
+                            'email': doctor['email'],
+                            'specialization':doctor['specialization'],
+                            'phone':doctor['phone'],
+                            'image':doctor['image'],
+                            'status':doctor['status']
+                        }
+                    }
+                return {"message": "Invalid credentials", "user": {}}
+            return {"message": "User not found", "user": {}}
         except Exception as e:
             return {'message':f'{e}','user':{}}
     
