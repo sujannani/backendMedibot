@@ -18,8 +18,7 @@ class user_model:
                 return {"message":"ok","user":{
                     'id':str(user['_id']),
                     'name':user['name'],
-                    'email':user['email'],
-                    'totalAmount':user['totalAmount']
+                    'email':user['email']
                 }}
             return {"message":"not ok","user":{}}
         except Exception as e:

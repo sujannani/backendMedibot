@@ -13,6 +13,10 @@ def doctor_signup_controller():
 def doctor_login_controller():
     return doctor_obj.doctor_login_model(request.form.to_dict())
 
-@app.route('/doctor/active')
-def doctor_active_controller():
-    return doctor_obj.doctor_active_model()
+@app.route('/doctor/all-doctors')
+def doctor_all_controller():
+    return doctor_obj.doctor_all_model()
+
+@app.route('/doctor/change-activity',methods=["POST"])
+def doctor_change_activity_controller():
+    return doctor_obj.doctor_change_activity_model(request.form.to_dict())

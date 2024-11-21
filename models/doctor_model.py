@@ -1,4 +1,6 @@
+
 from app import mongo
+from bson import ObjectId
 class doctor_model:
     def doctor_signup_model(self,doctor_data):
         try:
@@ -18,18 +20,39 @@ class doctor_model:
                     'id':str(doctor['_id']),
                     'name':doctor['name'],
                     'email':doctor['email'],
-                    'totalAmount':doctor['totalAmount']
                 }}
             return {"message":"not ok","user":{}}
         except Exception as e:
             return {'message':f'{e}','user':{}}
     
-    def doctor_active_model(self):
+    def doctor_all_model(self):
         try:
-            active_doctors = list(mongo.db.doctors.find({'status': 'active'}))            
-            for doctor in active_doctors:
-                doctor['_id'] = str(doctor['_id'])            
-            return {"doctors": active_doctors,'message':'ok'}
+            doctors = list(mongo.db.doctors.find())
+            all_docs=[]   
+            for doctor in doctors:
+                all_docs.append({
+                    'id':str(doctor['_id']),
+                    'email':doctor['email'],
+                    'phone':doctor['phone'],
+                    'name':doctor['name'],
+                    'specialization':doctor['specialization'],
+                    'image':doctor['image'],
+                    'status':doctor['status']
+                })
+            return {"doctors": all_docs,'message':'ok'}
         
         except Exception as e:
             return {"message": "An error occurred", "error": str(e)}
+    
+    def doctor_change_activity_model(self,doctor_data):
+        try:
+            result=mongo.db.doctors.update_one(
+                {'_id':ObjectId(doctor_data['id'])},
+                {"$set":{'status':doctor_data['status']}}
+            )
+            if result.matched_count==0:
+                return {'messsage':"doctor not found"}
+            return {'message':'ok','status':doctor_data['status']}
+        except Exception as e:
+            return {"message": "An error occurred", "error": str(e)}
+        
